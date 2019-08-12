@@ -1,6 +1,2 @@
-a=10
-a*=2
-print(a)
-"""
-コメントで複数の行を記述できる
-"""
+name=input("input your name!")
+print(name)
